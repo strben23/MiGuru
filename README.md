@@ -31,5 +31,5 @@ Importar al proyecto **mysql-connector-j-8.0.31-javadoc.jar**
 
 ### 2️⃣ Clonar el repositorio  
 ```bash
-git clone https://github.com/tu-usuario/strben23.git
+git clone https://github.com/strben23/MiGuru.git
 cd mi-guru
