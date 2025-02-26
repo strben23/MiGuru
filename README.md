@@ -23,10 +23,10 @@
 
 ## 📦 Instalación y configuración  
 ### 1️⃣ Requerimientos básicos
-**Java** (JDK17 o superior)
-**Maven**
-**MySQL**
-Extra:
+**Java** (JDK17 o superior), 
+**Maven**, 
+**MySQL**, 
+Extra: 
 Importar al proyecto **mysql-connector-j-8.0.31-javadoc.jar**
 
 ### 2️⃣ Clonar el repositorio  
