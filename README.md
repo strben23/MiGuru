@@ -22,8 +22,14 @@
 | **Infraestructura** | AWS / Azure |
 
 ## 📦 Instalación y configuración  
+### 1️⃣ Requerimientos básicos
+**Java** (JDK17 o superior)
+**Maven**
+**MySQL**
+Extra:
+Importar al proyecto **mysql-connector-j-8.0.31-javadoc.jar**
 
-### 1️⃣ Clonar el repositorio  
+### 2️⃣ Clonar el repositorio  
 ```bash
-git clone https://github.com/tu-usuario/mi-guru.git
+git clone https://github.com/tu-usuario/strben23.git
 cd mi-guru
