@@ -16,7 +16,7 @@
 ![alt text](https://github.com/strben23/MiGuru/blob/main/img/CasosUso.png)
 
 ### **Diagrama de clases**
-![alt text](https://github.com/strben23/MiGuru/blob/main/img/CasosUso.png](https://github.com/strben23/MiGuru/blob/main/img/DiagClaseMiGuru.jpg))
+![alt text](https://github.com/strben23/MiGuru/blob/main/img/DiagClaseMiGuru.jpg)
 
 ### **Diagrama de Deployment**
 ![alt text](https://github.com/strben23/MiGuru/blob/main/img/Deployment.png)
