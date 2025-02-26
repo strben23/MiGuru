@@ -11,6 +11,18 @@
 ✅ **Autenticación segura**: Integración con **OAuth2** y cifrado AES-256.  
 ✅ **Integración con SAP**: Sincronización de datos de empleados y capacitaciones.  
 
+## Arquitectura del sistema
+### **Diagrama de casos de uso**
+![alt text](https://github.com/strben23/MiGuru/blob/main/img/CasosUso.png)
+
+### **Diagrama de clases**
+
+### **Diagrama de Deployment**
+
+### **Diagrama de Implementacion**
+
+### **Diagrama de Entidad Relacion**
+
 ## 🛠️ Tecnologías utilizadas  
 
 | Componente        | Tecnología         |
